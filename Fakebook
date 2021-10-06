@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fakebook</title>
+</head>
+
+<style>
+  h1 {color:blue;}
+  h5 {color:grey;}
+</style>
+
+
+<body>
+<h1>Fakebook</h1>
+
+
+
+<form id="form">
+  <input type="search" id="query" name="q" placeholder="Search by name">
+  <button>Search</button>
+</form>
+
+
+<h1>Nino Popović</h1>
+
+<img src="nino.jpeg" width="350" height="400">
+
+<br>
+<br>
+
+<button type="button">Add a friend!</button>
+
+<h5>City: Rijeka</h5>
+<h5>Age : 30+</h5>
+<h5>Education : Faculty of humanities and social sciences</h5>
+<h5>Hobby : Music</h5>
+<h5>FB Friends : 666</h5>
+<h5>FB Enemies : 6</h5>
+
+
+
+
+
+
+</body>
+</html>
